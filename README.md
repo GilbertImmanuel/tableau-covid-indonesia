@@ -56,7 +56,7 @@ To power the visualizations, several custom calculated fields were engineered in
 
 
 **Executive Summary:**
-![Executive Summary](images\ExecutiveSummary.png)
+![Executive Summary](images/ExecutiveSummary.png)
 
 **Provincial Deep Dive (Filtered to DKI Jakarta):**
-![Provincial Deep Dive](images\ProvincialDeepDive.png)
+![Provincial Deep Dive](images/ProvincialDeepDive.png)
